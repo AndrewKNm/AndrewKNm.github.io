@@ -1,3 +1,4 @@
 # Andrew Nedelko
----------
-[My Telegram](t.me/andrewkn)
+
+[Telegram](t.me/andrewkn)
+[VK](vk.com/andrewnedelko)
