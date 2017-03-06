@@ -1,5 +1,5 @@
 # Andrew Nedelko
 
-[Telegram]( http://t.me/andrewkn)
+[Telegram](http://t.me/andrewkn "Telegram")
 
-[VK]( http://vk.com/andrewnedelko)
+[VK](http://vk.com/andrewnedelko "My VK page")
