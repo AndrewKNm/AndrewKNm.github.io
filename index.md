@@ -5,4 +5,4 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/VKontakte.svg" height="16"> andrewnedelko](http://vk.com/andrewnedelko)
 
 ## Work:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" height="16"> andrewknm@gmail.com](mailto:andrewknm@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" width="16"> andrewknm@gmail.com](mailto:andrewknm@gmail.com)
