@@ -20,6 +20,7 @@ GEM
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
+    forty (0.1.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (126)
@@ -195,9 +196,9 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  forty
   github-pages
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
 
 RUBY VERSION
    ruby 2.3.3p222
