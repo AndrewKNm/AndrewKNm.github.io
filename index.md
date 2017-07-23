@@ -2,7 +2,7 @@
 title: Main
 layout: default
 ---
-
+<section> 
 Andrew
 ================================
 
@@ -25,3 +25,4 @@ In addition to the changes in the previous section, certain references are auto-
 * User/Project#Num: mojombo/god#1
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
+</section> 
