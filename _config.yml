@@ -1,36 +1,21 @@
-# Site settings
-title: ANSG
-subtitle: Homepage
-email: andrewknm@gmail.com
-description: Student <br /> Programmer
-baseurl: 
-url: "" # the base hostname & protocol for your site
-author:
-#street_address: 1234 Somewhere Road
-#city: Nashville
-#state: TN
-#zip_code: 55555
-#country: United States of America
-#phone: (716) 555-5555
+title: minimal-jekyll-ghp
+email: me@bryanculver.com
+description: A fork of @orderlist's Minimal theme, built for GitHub Pages + Jekyll
 
-# Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+# HEADS UP: Change these for your use
+baseurl: "/minimal-jekyll-ghp/" 
+url: "https://bryanculver.github.io/minimal-jekyll-ghp/"
 
-# Social settings
-500px_url:
-facebook_url: https://www.facebook.com/andrewnedelko
-github_url: https://github.com/AndrewKNm
-gitlab_url: https://gitlab.com/u/ansg
-googleplus_url: 
-instagram_url: https://www.instagram.com/zeleniporoch/
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url: 
 
 # Build settings
 markdown: kramdown
 
-sass:
-  style: compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - /tmp/
+  - config.ru
+
+
+# Development Parameter for Puma 
+destination: "public/minimal-jekyll-ghp"

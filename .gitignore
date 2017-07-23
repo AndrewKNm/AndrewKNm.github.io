@@ -1,5 +1,10 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+
+
+# Files from local Puma development
+.env
+.envrc
+Gemfile
 Gemfile.lock
-*.gem
+config.ru
+tmp/
+public/
