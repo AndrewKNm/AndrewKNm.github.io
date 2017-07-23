@@ -19,3 +19,9 @@ exclude:
 
 # Development Parameter for Puma 
 destination: "public/minimal-jekyll-ghp"
+
+#contact 
+
+facebook_url: https://www.facebook.com/andrewnedelko
+github_url: https://github.com/AndrewKNm
+gitlab_url: https://gitlab.com/u/ansg
